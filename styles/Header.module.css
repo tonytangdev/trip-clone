@@ -16,3 +16,8 @@
     border-bottom: 1px solid #ddd;
     height: 48px;
 }
+
+.websiteMenu {
+    display: flex;
+    flex-direction: column;
+}

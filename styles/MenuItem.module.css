@@ -1,0 +1,20 @@
+.menuItemContainer {
+    padding: 12px 16px;
+    background-color: #fff;
+}
+
+.subContainer {
+    display: flex;
+    align-items: center;
+}
+
+.menuIcon {
+    height: 18px;
+    width: 18px;
+    margin-right: 0.6em;
+}
+
+.title {
+    font-size: 16px;
+    color: #0f294d;
+}
