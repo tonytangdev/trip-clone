@@ -1,0 +1,36 @@
+.container {
+    position: relative;
+}
+
+.heroBackgroundImg {
+    background: url("https://ak-d.tripcdn.com/images/100i12000000t464t9CFA.jpg") right top / cover no-repeat;
+    height: 140px;
+    width: 100vw;
+    position: absolute;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.titleContainer {
+    margin: 0 auto 8px !important;
+    max-width: calc(100% - 32px) !important;
+    position: relative;
+    letter-spacing: 0;
+}
+
+.title {
+    position: relative;
+    color: #fff;
+    margin: 0;
+    font-size: 1.5em;
+    top: 30px;
+}
+
+.dot {
+    margin-left: 5px;
+    width: 6px;
+    height: 6px;
+    background: #ffb400;
+    display: inline-block;
+    border-radius: 50%;
+}
